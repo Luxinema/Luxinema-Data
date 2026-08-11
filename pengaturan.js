@@ -8,5 +8,6 @@ const CONFIG_APP = {
     namaVendor: "LUXINEMA PICTURES",
 
     // 2. Google Drive API Key (Penting agar galeri bisa memuat foto)
-    googleApiKey: "AIzaSyC0Fl-a8KMaXnSm6UIAgdU1VXem5RYoLj4",    whatsappAdmin: "6281379272103" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
+    googleApiKey: "AIzaSyC0Fl-a8KMaXnSm6UIAgdU1VXem5RYoLj4",    
+    whatsappAdmin: "6281379272103" // <-- TAMBAHKAN BARIS INI (Ganti dengan nomor WA admin)
 };
